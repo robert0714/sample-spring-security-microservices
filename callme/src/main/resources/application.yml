@@ -5,7 +5,7 @@ spring:
     oauth2:
       resourceserver:
         jwt:
-          issuer-uri: http://localhost:8080/auth/realms/master
+          issuer-uri: http://localhost:8888/auth/realms/master
 
 logging.level:
   org.springframework.cloud.gateway: DEBUG
