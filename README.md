@@ -130,3 +130,4 @@ public class CallmeController {
 ```
 
 You can test Client Scopes' effect.
+use URL -->> http://localhost:8060/callme/ping
